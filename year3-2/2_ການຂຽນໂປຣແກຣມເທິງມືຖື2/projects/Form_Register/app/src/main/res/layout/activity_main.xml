@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/bg_layout"
+        android:gravity="center"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:background="@drawable/bg_sublayout"
+            android:padding="12dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            >
+            <EditText
+                android:textColor="@color/white"
+                android:id="@+id/username"
+                android:drawableStart="@drawable/username"
+                android:background="@drawable/text_layout"
+                android:padding="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="enter name"/>
+            <EditText
+                android:textColor="@color/white"
+                android:id="@+id/surenname"
+                android:background="@drawable/text_layout"
+                android:padding="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="username"
+                android:drawableStart="@drawable/username"/>
+            <EditText
+                android:textColor="@color/white"
+                android:id="@+id/tel"
+                android:drawableStart="@drawable/ic_baseline_phonelink_ring_24"
+                android:background="@drawable/text_layout"
+                android:padding="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="tel"/>
+            <EditText
+                android:textColor="@color/white"
+                android:id="@+id/address"
+                android:drawableStart="@drawable/address"
+                android:background="@drawable/text_layout"
+                android:padding="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="address"/>
+
+
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_margin="50dp"
+
+            >
+            <Button
+                android:id="@+id/ok"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ok"
+                android:layout_marginRight="30dp"
+                />
+
+            <Button
+
+                android:id="@+id/cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="canel"
+                android:layout_marginLeft="30dp"
+
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>
