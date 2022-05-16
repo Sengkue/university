@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".showactivity">
+    <LinearLayout
+        android:layout_margin="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:padding="10dp"
+            android:id="@+id/txtname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            />
+        <TextView
+            android:padding="10dp"
+            android:layout_marginTop="15dp"
+            android:id="@+id/txtsurname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Surname"
+            />
+        <TextView
+            android:padding="10dp"
+            android:layout_marginTop="15dp"
+            android:id="@+id/txtage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Age"
+            />
+        <TextView
+            android:padding="10dp"
+            android:layout_marginTop="15dp"
+            android:id="@+id/txtsex"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gender"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
