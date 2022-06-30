@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32eb5e03-9601-4066-87cd-14b3c9c12838" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../6142022/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/androidTest/java/com/example/a6_14_2022/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/java/com/example/a6_14_2022/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/app/src/test/java/com/example/a6_14_2022/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6142022/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Khamphay_Hcs6hpm2/app/src/main/java/com/example/khamphay_hcs6h_pm2/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Khamphay_Hcs6hpm2/app/src/main/res/drawable/ic_menu_grade.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Khamphay_Hcs6hpm2/app/src/main/res/layout/fragment_grade.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Khamphay_Hcs6hpm2/app/src/main/res/layout/grade.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Khamphay_Hcs6hpm2/app/src/main/res/mipmap-anydpi-v26/db.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_25_5_2022/app/src/main/java/com/example/lab_25_5_2022/myViewholder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_25_5_2022/app/src/main/res/drawable/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear30_5_2022/app/src/main/java/com/example/linear30_5_2022/myViewholder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear30_5_2022/app/src/main/res/drawable/pajntaub2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../khamphay_Hcs6hpm22/app/src/main/java/com/example/khamphay_hcs6h_pm2/Exchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../khamphay_Hcs6hpm22/app/src/main/java/com/example/khamphay_hcs6h_pm2/Tutgrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../khamphay_Hcs6hpm22/app/src/main/res/layout/fragment_exchange.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../khamphay_Hcs6hpm22/app/src/main/res/layout/fragment_tutgrade.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lad2062022/app/src/main/java/com/example/lad_20_6_2022/Save_Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lad2062022/app/src/main/java/com/example/lad_20_6_2022/Show_Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lad2062022/app/src/main/java/com/example/lad_20_6_2022/Update_Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lad2062022/app/src/main/res/layout/activity_save_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lad2062022/app/src/main/res/layout/activity_show_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lad2062022/app/src/main/res/layout/activity_update_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/mysqlapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/libs/mysql-connector-java-3.0.17-ga-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/androidTest/java/com/bmp/mysqlapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/java/com/bmp/mysqlapp/DB/ActionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/java/com/bmp/mysqlapp/DB/DBConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/java/com/bmp/mysqlapp/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/java/com/bmp/mysqlapp/Model/ModelBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/java/com/bmp/mysqlapp/SelectDataActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/layout/activity_select_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/app/src/test/java/com/bmp/mysqlapp/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlapp/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/libs/mysql-connector-java-3.0.17-ga-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/libs/mysql-connector-java-8.0.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/androidTest/java/com/bmp/mysqlapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/java/com/bmp/mysqlapp/DBConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/java/com/bmp/mysqlapp/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/app/src/test/java/com/bmp/mysqlapp/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysqlapp2/mysqlapp2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllife/app/src/main/java/com/example/sqllife/SaveData_Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllife/app/src/main/java/com/example/sqllife/activity_showdata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllife/app/src/main/java/com/example/sqllife/manager_activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllife/app/src/main/java/com/example/sqllife/myDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllife/app/src/main/res/drawable/bg_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllife/app/src/main/res/drawable/bg_textcolor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllife/app/src/main/res/drawable/textview_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllife/app/src/main/res/layout/activity_manager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllife/app/src/main/res/layout/activity_save_data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllife/app/src/main/res/layout/activity_showdata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqllife1/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_ ການສ້າງເວບດ້ວຍ ASP.net 2---NodeJs/Lad-nodejs/lad-18-5-2022/insert.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ ການສ້າງເວບດ້ວຍ ASP.net 2---NodeJs/Lad-nodejs/lad-18-5-2022/insert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spnlist/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spnlist/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2B97Hpw2wL93SmuBi2o5UYCe1su" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32eb5e03-9601-4066-87cd-14b3c9c12838" name="Default Changelist" comment="" />
+      <created>1656306365858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656306365858</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
