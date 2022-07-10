@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 public class Save_Data extends AppCompatActivity {
     EditText txtid,txtname,txtprice,txtpage;
-    Button btnInsert;
+    Button btnInsert, btnCancel;
     myDatabase mydb =new myDatabase(this);
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,6 +22,7 @@ public class Save_Data extends AppCompatActivity {
         txtprice =findViewById(R.id.txtprice);
         txtpage =findViewById(R.id.txtpage);
         btnInsert =findViewById(R.id.btnInsert);
+        btnCancel = findViewById(R.id.btnCancel);
         btnInsert.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -42,6 +43,15 @@ public class Save_Data extends AppCompatActivity {
                 }
 
 
+            }
+        });
+
+        btnCancel.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent =new Intent(Save_Data.this,MainActivity.class);
+                Save_Data.this.finish();
+                startActivity(intent);
             }
         });
     }
