@@ -10,19 +10,14 @@
 
 
   <LinearLayout
-      android:background="#DCDCDB"
+      android:background="#52E852"
       android:layout_margin="10dp"
       android:orientation="vertical"
       android:layout_width="match_parent"
       android:layout_height="250dp">
 
 
-<!--      <EditText-->
-<!--          android:textStyle="bold"-->
-<!--          android:id="@+id/txtid"-->
-<!--          android:hint="ລະຫັດ"-->
-<!--          android:layout_width="match_parent"-->
-<!--          android:layout_height="wrap_content"/>-->
+
       <EditText
           android:textStyle="bold"
           android:id="@+id/txtname"
